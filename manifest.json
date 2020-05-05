@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube Downloader",
+  "description": "made by fiverr.com/ultimatecrackr \n ultimatecracker.wordpress.com",
+  "version": "1.0",
+  "permissions": [
+    "https://www.y2mate.com/youtube/*",
+    "activeTab"
+  ],
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": [
+        "https://www.y2mate.com/youtube/*"
+      ],
+      "js": [
+        "js/contentaction.js"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
