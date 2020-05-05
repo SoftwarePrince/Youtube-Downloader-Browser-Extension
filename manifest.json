@@ -9,7 +9,7 @@
   ],
   "background": {
     "scripts": [
-      "js/background.js"
+      "background.js"
     ],
     "persistent": true
   },
@@ -20,7 +20,7 @@
         "https://www.y2mate.com/youtube/*"
       ],
       "js": [
-        "js/contentaction.js"
+        "contentaction.js"
       ]
     }
   ],
