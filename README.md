@@ -13,7 +13,7 @@ https://youtu.be/zBccpJL-h-g
 ## subscribe me on youtube
 https://www.youtube.com/channel/UCqmvbsuTvT6jjTNkCg8j6FQ
 
-## made by https://bit.ly/3aUFids
+## made by [Software Prince](https://SoftwarePrince.com)
 IF U NEED TO MAKE YOUR OWN EXTENSIONS CONTACT ME
 
 extension auto clicks on some buttons to download youtube video,
